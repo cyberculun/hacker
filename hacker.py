@@ -27,9 +27,10 @@ print ('''
 Author   : Falah
 snapchat : flaah999
 Management depends on vpn software. Please use it before running the tool
-           """""""""""""""""""""""""""""""""""""""""" 
-''')
+     
+     """""""""""""""""""""""""""""""""""""""""" 
 
+''')
 
 class InstaBrute (object):
     def __init__(self):
